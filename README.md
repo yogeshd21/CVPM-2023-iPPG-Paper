@@ -1,5 +1,6 @@
-# Thesis
-Source code for the paper 'Camera-based Recovery of Cardiovascular Signals from Unconstrained Face Videos Using an Attention Network'
+# CVPM 2023
+Source code for the paper 'Camera-based Recovery of Cardiovascular Signals from Unconstrained Face Videos Using an Attention Network'  
+[Project Page](https://sites.google.com/view/vt-tricam-ppg)
 
 #### <u>Abstract:</u>
 This work addresses the problem of recovering the morphology of blood volume pulse (BVP) information from a video of a person's face. 
