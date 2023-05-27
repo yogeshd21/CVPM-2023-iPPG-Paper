@@ -73,7 +73,8 @@ system extracts the face region and detects skin while excluding major facial ha
     ├── Jobfaceskin.sh
     ├── Jobtest_mymodel.sh
     ├── TestmodelRun.py
-    └── TrnTstFaceSkin.py      # -------------------------------------
+    ├── TrnTstFaceSkin.py      # -------------------------------------
+    └── Metric_Calculation_Helper_Function.py    # Helper Function for the calculation of all the metrics mentioned in the paper
 
 
 ### Test.py
@@ -95,6 +96,10 @@ by the skin frames and also creates a csv file with skin frames with their corre
 ### TrnTstFaceSkin.py
 
 -> Code to train my models. It uses Deepyo.py and the bash scrip Jobfaceskin.sh is used to run the model.
+
+### Metric_Calculation_Helper_Function.py
+
+-> Helper function to calculate all the metrics mentioned in the paper.
 
 ## Attention Masks
 
