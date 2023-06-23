@@ -2,7 +2,7 @@
 Source code for the paper 'Camera-based Recovery of Cardiovascular Signals from Unconstrained Face Videos Using an Attention Network'  
 
 [Project Page](https://sites.google.com/view/vt-tricam-ppg)  
-[Paper & Citation](https://openaccess.thecvf.com/CVPR2023_workshops/CVPM)
+[Paper](https://openaccess.thecvf.com/content/CVPR2023W/CVPM/papers/Deshpande_Camera-Based_Recovery_of_Cardiovascular_Signals_From_Unconstrained_Face_Videos_Using_CVPRW_2023_paper.pdf)  
 
 #### <u>Abstract:</u>
 This work addresses the problem of recovering the morphology of blood volume pulse (BVP) information from a video of a person's face. 
@@ -108,3 +108,14 @@ by the skin frames and also creates a csv file with skin frames with their corre
 ![Attention Mask 1](./Images/Attention1.png "Attention Mask 1")
 
 ![Attention Mask 2](./Images/Attention2.png "Attention Mask 2")
+
+## Citation
+
+    @InProceedings{Deshpande_2023_CVPR,
+    author    = {Deshpande, Yogesh and Thapa, Surendrabikram and Sarkar, Abhijit and Abbott, A. Lynn},
+    title     = {Camera-Based Recovery of Cardiovascular Signals From Unconstrained Face Videos Using an Attention Network},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2023},
+    pages     = {5974-5983}
+    }
